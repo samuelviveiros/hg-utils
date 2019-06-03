@@ -3,7 +3,7 @@ const util = require('util');
 const path = require('path');
 const childprocess = require('child_process');
 
-const EXTENSION_NAME = 'hello-world';
+const EXTENSION_NAME = 'hg-utils';
 const win = vscode.window;
 
 let statusBarItem = null;
